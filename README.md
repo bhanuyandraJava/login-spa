@@ -36,3 +36,15 @@ Default API URL is:
 
 ```http://localhost:8000/api/login```
 
+
+Screenshots:
+-------------
+Login Page
+
+![Login Page](./LoginPage-Screenshot.png)
+
+Dashboard
+
+![Dashboard](./Dashboard-Screenshot.png)
+
+
