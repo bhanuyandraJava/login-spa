@@ -1,5 +1,5 @@
 Login React APP
---------------
+----------------------------
 Simple React Login App using Webpack
 
 
@@ -25,4 +25,14 @@ Application URL:
 http://localhost:8080
 
 
+Configuring API URL:
+---------------------
+
+API URL is defined in the file:
+
+```src/hooks/useLogin.ts```
+
+Default API URL is:  
+
+```http://localhost:8000/api/login```
 
